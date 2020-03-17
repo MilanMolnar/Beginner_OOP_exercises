@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\bin\Debug\netcoreapp3.0\9_ReturnStatement.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\bin\Debug\netcoreapp3.0\9_ReturnStatement.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\bin\Debug\netcoreapp3.0\9_ReturnStatement.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\bin\Debug\netcoreapp3.0\9_ReturnStatement.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\bin\Debug\netcoreapp3.0\9_ReturnStatement.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\bin\Debug\netcoreapp3.0\9_ReturnStatement.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\obj\Debug\netcoreapp3.0\9_ReturnStatement.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\obj\Debug\netcoreapp3.0\9_ReturnStatement.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\obj\Debug\netcoreapp3.0\9_ReturnStatement.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\obj\Debug\netcoreapp3.0\9_ReturnStatement.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\9_ReturnStatement\9_ReturnStatement\obj\Debug\netcoreapp3.0\9_ReturnStatement.pdb

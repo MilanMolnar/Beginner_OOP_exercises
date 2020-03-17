@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\bin\Debug\netcoreapp3.0\14_ExceptionHandling.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\bin\Debug\netcoreapp3.0\14_ExceptionHandling.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\bin\Debug\netcoreapp3.0\14_ExceptionHandling.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\bin\Debug\netcoreapp3.0\14_ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\bin\Debug\netcoreapp3.0\14_ExceptionHandling.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\bin\Debug\netcoreapp3.0\14_ExceptionHandling.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\obj\Debug\netcoreapp3.0\14_ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\obj\Debug\netcoreapp3.0\14_ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\obj\Debug\netcoreapp3.0\14_ExceptionHandling.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\obj\Debug\netcoreapp3.0\14_ExceptionHandling.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\14_ExceptionHandling\14_ExceptionHandling\obj\Debug\netcoreapp3.0\14_ExceptionHandling.pdb

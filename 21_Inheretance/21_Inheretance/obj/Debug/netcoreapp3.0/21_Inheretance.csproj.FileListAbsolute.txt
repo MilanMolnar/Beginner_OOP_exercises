@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\bin\Debug\netcoreapp3.0\21_Inheretance.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\bin\Debug\netcoreapp3.0\21_Inheretance.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\bin\Debug\netcoreapp3.0\21_Inheretance.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\bin\Debug\netcoreapp3.0\21_Inheretance.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\bin\Debug\netcoreapp3.0\21_Inheretance.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\bin\Debug\netcoreapp3.0\21_Inheretance.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\obj\Debug\netcoreapp3.0\21_Inheretance.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\obj\Debug\netcoreapp3.0\21_Inheretance.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\obj\Debug\netcoreapp3.0\21_Inheretance.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\obj\Debug\netcoreapp3.0\21_Inheretance.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\21_Inheretance\21_Inheretance\obj\Debug\netcoreapp3.0\21_Inheretance.pdb

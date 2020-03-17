@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\bin\Debug\netcoreapp3.0\19_StaticClass.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\bin\Debug\netcoreapp3.0\19_StaticClass.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\bin\Debug\netcoreapp3.0\19_StaticClass.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\bin\Debug\netcoreapp3.0\19_StaticClass.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\bin\Debug\netcoreapp3.0\19_StaticClass.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\bin\Debug\netcoreapp3.0\19_StaticClass.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\obj\Debug\netcoreapp3.0\19_StaticClass.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\obj\Debug\netcoreapp3.0\19_StaticClass.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\obj\Debug\netcoreapp3.0\19_StaticClass.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\obj\Debug\netcoreapp3.0\19_StaticClass.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\19_StaticClass\19_StaticClass\obj\Debug\netcoreapp3.0\19_StaticClass.pdb

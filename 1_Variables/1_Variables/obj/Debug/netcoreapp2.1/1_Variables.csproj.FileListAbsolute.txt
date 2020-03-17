@@ -1,0 +1,11 @@
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\bin\Debug\netcoreapp2.1\1_Variables.deps.json
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\bin\Debug\netcoreapp2.1\1_Variables.runtimeconfig.json
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\bin\Debug\netcoreapp2.1\1_Variables.runtimeconfig.dev.json
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\bin\Debug\netcoreapp2.1\1_Variables.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\bin\Debug\netcoreapp2.1\1_Variables.pdb
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\obj\Debug\netcoreapp2.1\1_Variables.csprojAssemblyReference.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\obj\Debug\netcoreapp2.1\1_Variables.csproj.CoreCompileInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\obj\Debug\netcoreapp2.1\1_Variables.AssemblyInfoInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\obj\Debug\netcoreapp2.1\1_Variables.AssemblyInfo.cs
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\obj\Debug\netcoreapp2.1\1_Variables.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\1_Variables\1_Variables\obj\Debug\netcoreapp2.1\1_Variables.pdb

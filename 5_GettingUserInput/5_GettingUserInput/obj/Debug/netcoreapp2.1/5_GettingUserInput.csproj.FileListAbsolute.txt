@@ -1,0 +1,11 @@
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\bin\Debug\netcoreapp2.1\5_GettingUserInput.deps.json
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\bin\Debug\netcoreapp2.1\5_GettingUserInput.runtimeconfig.json
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\bin\Debug\netcoreapp2.1\5_GettingUserInput.runtimeconfig.dev.json
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\bin\Debug\netcoreapp2.1\5_GettingUserInput.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\bin\Debug\netcoreapp2.1\5_GettingUserInput.pdb
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\obj\Debug\netcoreapp2.1\5_GettingUserInput.csprojAssemblyReference.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\obj\Debug\netcoreapp2.1\5_GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\obj\Debug\netcoreapp2.1\5_GettingUserInput.AssemblyInfoInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\obj\Debug\netcoreapp2.1\5_GettingUserInput.AssemblyInfo.cs
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\obj\Debug\netcoreapp2.1\5_GettingUserInput.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\5_GettingUserInput\5_GettingUserInput\obj\Debug\netcoreapp2.1\5_GettingUserInput.pdb

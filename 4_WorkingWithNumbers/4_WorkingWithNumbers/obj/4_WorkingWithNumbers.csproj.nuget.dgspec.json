@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\nevie\\source\\repos\\GiraffeAcademy\\4_WorkingWithNumbers\\4_WorkingWithNumbers\\4_WorkingWithNumbers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\nevie\\source\\repos\\GiraffeAcademy\\4_WorkingWithNumbers\\4_WorkingWithNumbers\\4_WorkingWithNumbers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nevie\\source\\repos\\GiraffeAcademy\\4_WorkingWithNumbers\\4_WorkingWithNumbers\\4_WorkingWithNumbers.csproj",
+        "projectName": "4_WorkingWithNumbers",
+        "projectPath": "C:\\Users\\nevie\\source\\repos\\GiraffeAcademy\\4_WorkingWithNumbers\\4_WorkingWithNumbers\\4_WorkingWithNumbers.csproj",
+        "packagesPath": "C:\\Users\\nevie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nevie\\source\\repos\\GiraffeAcademy\\4_WorkingWithNumbers\\4_WorkingWithNumbers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nevie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

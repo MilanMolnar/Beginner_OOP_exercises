@@ -1,0 +1,11 @@
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\bin\Debug\netcoreapp2.1\3_WorkingWithStrings.deps.json
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\bin\Debug\netcoreapp2.1\3_WorkingWithStrings.runtimeconfig.json
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\bin\Debug\netcoreapp2.1\3_WorkingWithStrings.runtimeconfig.dev.json
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\bin\Debug\netcoreapp2.1\3_WorkingWithStrings.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\bin\Debug\netcoreapp2.1\3_WorkingWithStrings.pdb
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\obj\Debug\netcoreapp2.1\3_WorkingWithStrings.csprojAssemblyReference.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\obj\Debug\netcoreapp2.1\3_WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\obj\Debug\netcoreapp2.1\3_WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\obj\Debug\netcoreapp2.1\3_WorkingWithStrings.AssemblyInfo.cs
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\obj\Debug\netcoreapp2.1\3_WorkingWithStrings.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\3_WorkingWithStrings\3_WorkingWithStrings\obj\Debug\netcoreapp2.1\3_WorkingWithStrings.pdb

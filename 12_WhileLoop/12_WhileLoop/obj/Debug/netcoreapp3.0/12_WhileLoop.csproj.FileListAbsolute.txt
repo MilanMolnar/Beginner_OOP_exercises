@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\bin\Debug\netcoreapp3.0\12_WhileLoop.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\bin\Debug\netcoreapp3.0\12_WhileLoop.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\bin\Debug\netcoreapp3.0\12_WhileLoop.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\bin\Debug\netcoreapp3.0\12_WhileLoop.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\bin\Debug\netcoreapp3.0\12_WhileLoop.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\bin\Debug\netcoreapp3.0\12_WhileLoop.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\obj\Debug\netcoreapp3.0\12_WhileLoop.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\obj\Debug\netcoreapp3.0\12_WhileLoop.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\obj\Debug\netcoreapp3.0\12_WhileLoop.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\obj\Debug\netcoreapp3.0\12_WhileLoop.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\12_WhileLoop\12_WhileLoop\obj\Debug\netcoreapp3.0\12_WhileLoop.pdb

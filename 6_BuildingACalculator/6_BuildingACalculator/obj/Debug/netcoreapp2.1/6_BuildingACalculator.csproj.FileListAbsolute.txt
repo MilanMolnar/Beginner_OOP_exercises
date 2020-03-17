@@ -1,0 +1,11 @@
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\bin\Debug\netcoreapp2.1\6_BuildingACalculator.deps.json
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\bin\Debug\netcoreapp2.1\6_BuildingACalculator.runtimeconfig.json
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\bin\Debug\netcoreapp2.1\6_BuildingACalculator.runtimeconfig.dev.json
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\bin\Debug\netcoreapp2.1\6_BuildingACalculator.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\bin\Debug\netcoreapp2.1\6_BuildingACalculator.pdb
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\obj\Debug\netcoreapp2.1\6_BuildingACalculator.csprojAssemblyReference.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\obj\Debug\netcoreapp2.1\6_BuildingACalculator.csproj.CoreCompileInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\obj\Debug\netcoreapp2.1\6_BuildingACalculator.AssemblyInfoInputs.cache
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\obj\Debug\netcoreapp2.1\6_BuildingACalculator.AssemblyInfo.cs
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\obj\Debug\netcoreapp2.1\6_BuildingACalculator.dll
+C:\Users\nevie\source\repos\GiraffeAcademy\6_BuildingACalculator\6_BuildingACalculator\obj\Debug\netcoreapp2.1\6_BuildingACalculator.pdb

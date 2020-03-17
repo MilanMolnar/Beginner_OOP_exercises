@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\bin\Debug\netcoreapp3.0\11_IfStatements(Compare).exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\bin\Debug\netcoreapp3.0\11_IfStatements(Compare).deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\bin\Debug\netcoreapp3.0\11_IfStatements(Compare).runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\bin\Debug\netcoreapp3.0\11_IfStatements(Compare).runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\bin\Debug\netcoreapp3.0\11_IfStatements(Compare).dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\bin\Debug\netcoreapp3.0\11_IfStatements(Compare).pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\obj\Debug\netcoreapp3.0\11_IfStatements(Compare).csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\obj\Debug\netcoreapp3.0\11_IfStatements(Compare).AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\obj\Debug\netcoreapp3.0\11_IfStatements(Compare).AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\obj\Debug\netcoreapp3.0\11_IfStatements(Compare).dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\11_IfStatements(Compare)\11_IfStatements(Compare)\obj\Debug\netcoreapp3.0\11_IfStatements(Compare).pdb

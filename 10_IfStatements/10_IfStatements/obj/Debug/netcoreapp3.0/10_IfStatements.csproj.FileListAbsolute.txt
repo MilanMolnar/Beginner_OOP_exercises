@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\bin\Debug\netcoreapp3.0\10_IfStatements.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\bin\Debug\netcoreapp3.0\10_IfStatements.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\bin\Debug\netcoreapp3.0\10_IfStatements.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\bin\Debug\netcoreapp3.0\10_IfStatements.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\bin\Debug\netcoreapp3.0\10_IfStatements.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\bin\Debug\netcoreapp3.0\10_IfStatements.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\obj\Debug\netcoreapp3.0\10_IfStatements.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\obj\Debug\netcoreapp3.0\10_IfStatements.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\obj\Debug\netcoreapp3.0\10_IfStatements.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\obj\Debug\netcoreapp3.0\10_IfStatements.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\10_IfStatements\10_IfStatements\obj\Debug\netcoreapp3.0\10_IfStatements.pdb

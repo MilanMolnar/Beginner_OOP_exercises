@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\bin\Debug\netcoreapp3.0\13_2DArrays.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\bin\Debug\netcoreapp3.0\13_2DArrays.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\bin\Debug\netcoreapp3.0\13_2DArrays.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\bin\Debug\netcoreapp3.0\13_2DArrays.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\bin\Debug\netcoreapp3.0\13_2DArrays.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\bin\Debug\netcoreapp3.0\13_2DArrays.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\obj\Debug\netcoreapp3.0\13_2DArrays.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\obj\Debug\netcoreapp3.0\13_2DArrays.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\obj\Debug\netcoreapp3.0\13_2DArrays.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\obj\Debug\netcoreapp3.0\13_2DArrays.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\13_2DArrays\13_2DArrays\obj\Debug\netcoreapp3.0\13_2DArrays.pdb

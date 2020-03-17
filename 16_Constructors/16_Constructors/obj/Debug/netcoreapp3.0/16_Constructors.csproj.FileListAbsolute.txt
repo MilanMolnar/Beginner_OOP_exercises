@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\bin\Debug\netcoreapp3.0\16_Constructors.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\bin\Debug\netcoreapp3.0\16_Constructors.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\bin\Debug\netcoreapp3.0\16_Constructors.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\bin\Debug\netcoreapp3.0\16_Constructors.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\bin\Debug\netcoreapp3.0\16_Constructors.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\bin\Debug\netcoreapp3.0\16_Constructors.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\obj\Debug\netcoreapp3.0\16_Constructors.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\obj\Debug\netcoreapp3.0\16_Constructors.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\obj\Debug\netcoreapp3.0\16_Constructors.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\obj\Debug\netcoreapp3.0\16_Constructors.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\16_Constructors\16_Constructors\obj\Debug\netcoreapp3.0\16_Constructors.pdb

@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\bin\Debug\netcoreapp3.0\20_StaticMethodsClasses.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\bin\Debug\netcoreapp3.0\20_StaticMethodsClasses.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\bin\Debug\netcoreapp3.0\20_StaticMethodsClasses.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\bin\Debug\netcoreapp3.0\20_StaticMethodsClasses.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\bin\Debug\netcoreapp3.0\20_StaticMethodsClasses.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\bin\Debug\netcoreapp3.0\20_StaticMethodsClasses.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\obj\Debug\netcoreapp3.0\20_StaticMethodsClasses.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\obj\Debug\netcoreapp3.0\20_StaticMethodsClasses.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\obj\Debug\netcoreapp3.0\20_StaticMethodsClasses.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\obj\Debug\netcoreapp3.0\20_StaticMethodsClasses.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\20_StaticMethodsClasses\20_StaticMethodsClasses\obj\Debug\netcoreapp3.0\20_StaticMethodsClasses.pdb

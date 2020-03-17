@@ -1,0 +1,11 @@
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\bin\Debug\netcoreapp3.0\17_ObjectMethods.exe
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\bin\Debug\netcoreapp3.0\17_ObjectMethods.deps.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\bin\Debug\netcoreapp3.0\17_ObjectMethods.runtimeconfig.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\bin\Debug\netcoreapp3.0\17_ObjectMethods.runtimeconfig.dev.json
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\bin\Debug\netcoreapp3.0\17_ObjectMethods.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\bin\Debug\netcoreapp3.0\17_ObjectMethods.pdb
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\obj\Debug\netcoreapp3.0\17_ObjectMethods.csprojAssemblyReference.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\obj\Debug\netcoreapp3.0\17_ObjectMethods.AssemblyInfoInputs.cache
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\obj\Debug\netcoreapp3.0\17_ObjectMethods.AssemblyInfo.cs
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\obj\Debug\netcoreapp3.0\17_ObjectMethods.dll
+C:\Users\Milan developer\Desktop\GiraffeAcademy\17_ObjectMethods\17_ObjectMethods\obj\Debug\netcoreapp3.0\17_ObjectMethods.pdb
